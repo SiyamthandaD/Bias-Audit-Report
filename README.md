@@ -29,7 +29,7 @@ Setup
 1. Clone the repository:
 git clone https://github.com/your-username/Bias-Audit-Report.git
 
-cd Bias-Audit-Report
+  cd Bias-Audit-Report
 
 2. Install NPM packages:
 npm install
