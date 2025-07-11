@@ -1,4 +1,4 @@
-<img width="740" height="200" alt="image" src="https://github.com/user-attachments/assets/61ce3790-bd4c-4b4d-9342-af21ccbeb124" />Bias-Audit-Report
+Bias-Audit-Report
 This React app provides an interactive dashboard for comprehensive bias auditing. It visualizes overall bias/fairness scores, analyzes datasets for bias factors (e.g., race, income), and evaluates model performance with and without mitigation strategies. The tool helps identify disparities and recommends actions for continuous improvement in AI fairness.
 
 Features
